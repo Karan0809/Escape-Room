@@ -1,0 +1,101 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+.main{
+    height: 100vh;
+    width: 98%;
+    margin: 10px;
+}
+nav{
+    background-color: #7fff00;
+    height: 20vh;
+    width: 99%;
+    border: 1px solid;
+    padding: 10px;
+}
+
+nav div{
+    margin-left: 35px;
+    margin-top: 33px;
+}
+
+.nav-item{
+    padding-right: 30px;
+    color: #00BFFF;
+    font-size:50px;
+    font-family: algerian;
+    float: left;
+}
+
+a{
+    text-decoration: none;
+    color:#008000;
+}
+
+.nav-btn{
+    border-radius: 20px;
+    background-color: #00BFFF;
+    font-size:35px;
+    font-family: 'Times New Roman';
+    border: 6px ridge black;
+    padding: 5px;
+    float: left;
+}
+.nav-btn:hover{
+    background-color: yellow;
+}
+
+a:hover{
+    color:black;
+}
+.parallax{
+    position: relative;
+    margin-top: 17px;
+    height:30vh;
+    width:100%;
+    background-image: url("matrix.webp");
+    background-attachment: fixed;
+    border: 5px ridge black;
+}
+
+.c1{
+    position: absolute;
+    background-color: white;
+    color: #008000;
+    font-size:50px;
+    font-family: algerian;
+    padding: 0px 45px;
+    top: 10vh;
+    left: 50vh;
+}
+
+.div3{
+    height: 10vh;
+    width: 100%;
+    text-align:center;
+}
+
+.search{
+    margin: 33.5px 0px;
+    font-size: 50px;
+    font-family: 'Times New Roman';
+}
+
+input{
+    font-size: 25px;
+    height:50px;
+    width:671px;
+    size: 50;
+    padding: 1px 2px;
+    margin: 20px 30px 0px 0px;
+}
+
+button{
+    background-color: #f0f0f0;
+    width: 250px;
+    height: 50px;
+    font-size: 25px;
+    padding: 1px 6px;
+}

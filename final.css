@@ -1,0 +1,111 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+.main{
+    height: 150vh;
+    width: 98%;
+    margin: 10px;
+}
+nav{
+    background-color: #7fff00;
+    height: 20vh;
+    width: 99%;
+    border: 1px solid;
+    padding: 10px;
+}
+
+nav div{
+    margin-left: 35px;
+    margin-top: 33px;
+}
+
+.nav-item{
+    padding-right: 30px;
+    color: #00BFFF;
+    font-size:50px;
+    font-family: algerian;
+    float: left;
+}
+
+.nav-btn a{
+    text-decoration: none;
+    color:#008000;
+}
+
+.nav-btn{
+    border-radius: 20px;
+    background-color: #00BFFF;
+    font-size:35px;
+    font-family: 'Times New Roman';
+    border: 6px ridge black;
+    padding: 5px;
+    float: left;
+}
+.nav-btn:hover{
+    background-color: yellow;
+}
+
+a:hover{
+    color:black;
+}
+.parallax{
+    position: relative;
+    margin-top: 10px;
+    height:30vh;
+    width:100%;
+    background-image: url("matrix.webp");
+    background-attachment: fixed;
+    border: 5px ridge black;
+}
+
+.c1{
+    position: absolute;
+    background-color: white;
+    color: #008000;
+    font-size:50px;
+    font-family: algerian;
+    padding: 0px 45px;
+    top: 10vh;
+    left: 50vh;
+}
+
+.div3{
+    height: 35vh;
+    width:100%;
+    margin-top: 5vh;
+}
+
+.txt1{
+    width: 45%;
+    font-family: 'Times New Roman';
+    font-size: 25px;
+    float:left;
+    margin: 200px 0px 0px 30px;
+}
+
+.txt1-p{
+    margin-bottom: 50px;
+    font-weight:300;
+}
+
+.img1{
+    width: 45%;
+    float: right;
+    margin-right: 80px;
+}
+
+.div4{
+    height: 40vh;
+    width: 100%;
+    padding-top: 200px;
+}
+
+.div4 .head1{
+    width: 100%;
+    margin: 200px 0px 0px 0px;
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Times New Roman';
+}
