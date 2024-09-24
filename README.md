@@ -33,14 +33,6 @@ To run the project locally, follow these steps:
     ```bash
     git clone https://github.com/karan0809/Escape-Room.git
     ```
-2. Navigate to the project directory:
-    ```bash
-    cd Escape-Room
-    ```
-3. Open the `index.html` file in your preferred web browser:
-    ```bash
-    open index.html
-    ```
 
 That's it! You can now start playing the Escape Room game locally.
 
