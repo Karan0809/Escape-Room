@@ -26,16 +26,6 @@ Escape Room is an interactive and engaging web-based puzzle game where players m
 - **CSS3**: For styling the game and making it visually appealing.
 - **GitHub Pages**: For deploying the live version of the project.
 
-## Setup Instructions
-To run the project locally, follow these steps:
-
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/karan0809/Escape-Room.git
-    ```
-
-That's it! You can now start playing the Escape Room game locally.
-
 ## Gameplay
 - Upon starting the game, you are placed inside a room with locked doors.
 - Use clues scattered around the room to solve puzzles.
