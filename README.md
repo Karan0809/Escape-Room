@@ -18,14 +18,12 @@ Escape Room is an interactive and engaging web-based puzzle game where players m
 ## Features
 - Engaging puzzles and riddles to solve.
 - Interactive user interface that simulates an escape room experience.
-- Countdown timer to add urgency and excitement to the game.
-- Responsive design that works across multiple devices (desktop and mobile).
+- Responsive design that works across multiple devices (desktop).
 - User-friendly controls and intuitive design.
 
 ## Technologies Used
 - **HTML5**: For structuring the game interface.
 - **CSS3**: For styling the game and making it visually appealing.
-- **JavaScript**: For handling game logic, interactions, and puzzles.
 - **GitHub Pages**: For deploying the live version of the project.
 
 ## Setup Instructions
@@ -53,7 +51,6 @@ That's it! You can now start playing the Escape Room game locally.
 
 ### Controls:
 - **Mouse**: Click on items in the room to interact with them.
-- **Keyboard**: Some puzzles may require keyboard input.
 
 ## Contributing
 If you would like to contribute to the project, feel free to submit a pull request or report any issues.
