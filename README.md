@@ -1,8 +1,5 @@
 # Escape Room
 
-## Live Demo
-Escape Room Game
-
 ## Table of Contents
 - Project Description
 - Features
